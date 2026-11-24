@@ -1,0 +1,4 @@
+Japanese language model jpn.traineddata
+Source: https://github.com/tesseract-ocr/tessdata_fast
+License: Apache License, Version 2.0. See LICENSE-CORE.txt in this directory.
+The original model has been gzip-compressed for distribution.
